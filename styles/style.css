@@ -1,1 +1,35 @@
+.bg-info {
+    background-color: #8C7A6B !important; 
+}
 
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color: #5E0B15;      
+}
+
+.btn-info {
+    color: #d9cab3;            
+    background-color: #8C7A6B; /* Light green for button background */
+    border-color: #5E0B15;     /* Dark green for button border */
+}
+
+.btn-primary {
+    color: #d9cab3;            
+    font-size: 150%;
+    background-color: #5E0B15; 
+    border-color: #90323D;     /* Reddish-brown for border to use as accent */
+    border-width: thick;
+}
+
+body {
+    background-color: #d9cab3;
+}
+
+.navbar-brand{
+    font-family: 'Caveat', cursive; /*change the font name for what you have*/
+    font-size: 2.25rem;
+}
+
+button .btn-primary {
+    color: #5E0B15;
+    background-color: #90323D;
+}
